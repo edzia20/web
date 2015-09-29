@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title>NegleDesign</title>
+		<meta charset="UTF-8">
+		
+	</style>
+	</head>
+	
+<style type="text/css">
+/* <![CDATA[ */
+body { font-family: Cursive,  sans-serif }
+/* ]]> */
+</style>
+<body bgcolor="lightyellow">
+
+<center>
+<br>
+<h1>NegleDesign</h1>
+<br>
+</center>
+<ul>
+  
+  <li><a href="./personligeegenskaper.html">Personlige egenskaper</a></li>
+  <li><a href="./hvordanjobbernegledesignere.html">Hvordan jobber negledesignere</li>
+  <li><a href ="./utdanning.html">Utdanning</li></a>
+  <li><a href ="./gjennonsnittl%F8nn.html">Gjennomsnittslønn for negledesignere</li>
+  <li><a href ="./nyttigelinker.html">Nyttige lenker</li></a>
+ </ul>
+ </br>
+ </body>
+ </html>
+ 
+  
